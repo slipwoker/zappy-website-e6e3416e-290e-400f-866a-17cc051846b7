@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://madame-e6e3416e.zappy5.app
+https://example.com
 היכנסו לעולם של אופנת וינטג&#39; יוקרתית עם פריטי מעצבים נדירים ואייקוניים. אוצרות בלעדיים לחובבי קוטור ואספנים. התחילו את המסע שלכם אל על-זמניות אלגנטית עוד היום.
 
 ### הבית
-https://madame-e6e3416e.zappy5.app/the-house
+https://example.com/the-house
 הכירו את הסיפור מאחורי MADAME — בית אופנת וינטג&#39; יוקרתית המוקדש לאמנות הקוטור. מורשת של בלעדיות, נוסטלגיה וטעם מושלם מחכה לכם. גלו את רוח הבית.
 
 ### אוצרות
-https://madame-e6e3416e.zappy5.app/curation
+https://example.com/curation
 אוסף אוצרות וינטג&#39; נדירים ממיטב בתי האופנה היוקרתיים. כל פריט נבחר בקפידה ומספר סיפור של אלגנטיות. הצטרפו למעגל האספנים והזמינו את ההיסטוריה אליכם.
 
 ### אווירת ארכיון
-https://madame-e6e3416e.zappy5.app/archive-mood
+https://example.com/archive-mood
 טבלו באווירת ארכיון וינטג&#39; יוקרתית — מסע ויזואלי בין דימויים, בדים וזיכרונות אופנתיים. חוויה חושית שמעוררת השראה ונוסטלגיה. התחברו לנשמת האופנה העילית.
 
 ### צור קשר
-https://madame-e6e3416e.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם MADAME — הצוות שלנו ישמח לסייע לכם בבחירת פריטי וינטג&#39; יוקרתיים, ייעוץ אספנות או כל שאלה. ההזדמנות שלכם לגעת במורשת האופנה מתחילה כאן.
 
 ### Products
-https://madame-e6e3416e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - MADAME
 
 ### Product Detail
-https://madame-e6e3416e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - MADAME
 
 ### Category
-https://madame-e6e3416e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - MADAME
 
 ### תודה
-https://madame-e6e3416e.zappy5.app/thank-you
+https://example.com/thank-you
 MADAME - תודה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://madame-e6e3416e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://madame-e6e3416e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://madame-e6e3416e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,8 +81,8 @@ Luxury Vintage Fashion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://madame-e6e3416e.zappy5.app/sitemap.xml
-- Robots: https://madame-e6e3416e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://madame-e6e3416e.zappy5.app/llms-full.txt
-- Products (JSON): https://madame-e6e3416e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://madame-e6e3416e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
